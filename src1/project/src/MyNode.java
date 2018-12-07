@@ -1,5 +1,6 @@
 package tree;
 
+// Anna adds comment to create merge conflict
 
 // C5 Nora changing to see status
 
@@ -113,3 +114,8 @@ public class MyNode {
     return cnt;
   }
 }
+<<<<<<< HEAD
+=======
+
+// Anna adds comment (bottom) to create merge conflict
+>>>>>>> origin
