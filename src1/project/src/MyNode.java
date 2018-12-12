@@ -6,7 +6,7 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ *changing stuff in my branch
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -114,5 +114,8 @@ public class MyNode {
     return cnt;
   }
 }
+<<<<<<< HEAD
+=======
 
 // Anna adds comment (bottom) to create merge conflict
+>>>>>>> origin
