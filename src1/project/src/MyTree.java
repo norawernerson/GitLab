@@ -25,6 +25,7 @@ public class MyTree {
   public MyNode getRoot() {
     return root;
   }
+  // Anna changing to test long transaction
 
   /**
    * Inserts a node in this tree. The tree is sorted by the node values.  If a
@@ -78,4 +79,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
