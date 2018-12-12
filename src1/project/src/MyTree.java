@@ -25,7 +25,7 @@ public class MyTree {
   public MyNode getRoot() {
     return root;
   }
-
+ // Anna testing long transaction
   /**
    * Inserts a node in this tree. The tree is sorted by the node values.  If a
    * node with the same node value is already in the tree nothing happens.
@@ -78,4 +78,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
